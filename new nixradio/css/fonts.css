@@ -1,0 +1,29 @@
+/* font-family: Abel */
+
+	@font-face{
+		font-family: Lora;
+		src: url("../fonts/Lora/Lora-VariableFonts_wgth.ttf");
+	}
+	
+/* font-family: Nanum Gothic */
+
+	@font-face{
+	
+		font-family: Nanum_Gothic;
+		src: url("../fonts/Nanum_Gothic/NanumGothic-ExtraBold.ttf");
+	}
+	
+/* font-family: Oswald-Regular. ttf */
+
+	@font-face{
+		
+		font-family: Oswald;
+		src: url("../fonts/Oswald/static/Oswald-Regular.ttf");
+	}
+	
+/* font-family: Lato  */
+	
+	@font-face{
+		font-family: LatoBold;
+		src: url("../fonts/Lato/Lato-Bold.ttf");
+	}
